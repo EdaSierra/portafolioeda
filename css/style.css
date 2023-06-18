@@ -1,0 +1,151 @@
+
+body{
+	font-family: 'Comfortaa';
+	color: #FFFFFF;
+	font-size: 14px;
+	background-color: #000000;
+	}
+
+ header {
+	background-color: #000000;
+	padding: 20px 0;
+	}
+
+#servicios {
+	background-color: darkgray;
+	padding: 20px;
+	text-align: center;
+}
+
+#servicios img {
+	padding: 10px;
+}
+
+#galeria {
+	padding: 20px;
+}
+
+#sobre-mi {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: darkgrey;
+	font-size: 20px;
+	padding: 20px;
+}
+
+#sobre-mi img {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#categorias {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#brand {
+	padding: 20px;
+	background-color: darkgray;
+}
+
+#brand img {
+	padding: 10px;
+}
+
+#vectores {
+	padding: 20px;
+	background-color: darkgray;
+}
+
+#diseño {
+	padding: 20px;
+}
+
+#diseño img {
+	padding: 10px;
+}
+
+#diseño-2 {
+	padding: 20px;
+}
+
+#diseño-2 img {
+	padding: 10px;
+}
+
+#categorias img {
+	margin-bottom: 20px;
+}
+
+.btn {
+	background-color: thistle;
+	margin-bottom: 20px;
+}
+
+#audiovisuales {
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	background-color: darkgray;
+}
+
+#audiovisuales iframe {
+	margin: 40px;
+	padding: 20px;
+}
+
+#galeria {
+	background-color: darkgray;
+}
+
+#galeria img {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#galeria-mujeres {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#galeria-mujeres img {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#cielo {
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+#galeria-corazones img {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+#museo {
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#contenido {
+	background-image: url("../img/heart-2.png");
+}
+
+.form-group {
+	padding: 20px;
+}
+
+footer {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
